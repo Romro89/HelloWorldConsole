@@ -1,0 +1,11 @@
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csprojAssemblyReference.cache
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csproj.CoreCompileInputs.cache
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfoInputs.cache
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfo.cs
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.deps.json
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.json
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.dev.json
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.dll
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.pdb
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.dll
+D:\Axity\Cursos\Net Core - Nancy FX\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.pdb
